@@ -80,7 +80,12 @@ a:hover {
   padding-left: 0; }
   /* line 143, ../sass/style.scss */
   .redq .columns ul li {
-    border: 1px solid #ebebeb; }
+    /*border: 1px solid #ebebeb;*/
+      
+    border-right: 1px solid #ebebeb;
+    border-bottom: 1px solid #ebebeb;
+
+     }
   /* line 152, ../sass/style.scss */
   .redq .columns ul a {
     padding: 10px 25px;
